@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+#log{
+     padding:60px 40px;
+     margin-top:50px;
+    -webkit-box-shadow: -5px 2px 62px 8px rgba(0,0,0,0.75);
+    -moz-box-shadow: -5px 2px 62px 8px rgba(0,0,0,0.75);
+    box-shadow: -5px 2px 62px 8px rgba(0,0,0,0.75);
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.row h3{
+    margin: 0px 0px 30px;
+    padding: 0px;
+    color: white;
+    text-align: center;
+    font-family: 'Lexend Deca', sans-serif;
+}
+label{
+    font-size: 20px;
+    color: white;
+    font-family: 'Lexend Deca', sans-serif;
+}
+.opt option{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    font-family: 'Lexend Deca', sans-serif;
+}
